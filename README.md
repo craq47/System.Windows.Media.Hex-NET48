@@ -5,13 +5,13 @@
 🇬🇧 **`System.Windows.Media.Hex`**  is a **.NET Framework** library for **Windows Presentation Foundation** (WPF) that provides enhanced functionality for working with hexadecimal color codes.
 
 > This library complements and extends the functionality of the standard
-> [`System.Windows.Media.Color`](https://learn.microsoft.com/en-us/dotnet/api/system.windows.media.color?view=windowsdesktop-6.0) structure, fixing some shortcomings and
+> [`System.Windows.Media.Color`](https://learn.microsoft.com/en-us/dotnet/api/system.windows.media.color?view=netframework-4.8) structure, fixing some shortcomings and
 > adding new features.
 
  🇺🇦 **`System.Windows.Media.Hex`** — це **.NET Framework** бібліотека розроблена для **Windows Presentation Foundation** (WPF) і дозволяє повноцінно керувати шістнадцятирядковими записами кольорів.
 
 > Ця бібліотека реалізує наявні можливості стандартної структури
-> [`System.Windows.Media.Color`](https://learn.microsoft.com/en-us/dotnet/api/system.windows.media.color?view=windowsdesktop-6.0) , усуваючи її недоліки та додаючи нові функції.
+> [`System.Windows.Media.Color`](https://learn.microsoft.com/en-us/dotnet/api/system.windows.media.color?view=netframework-4.8) , усуваючи її недоліки та додаючи нові функції.
 
 ## Update history🧪
 
